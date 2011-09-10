@@ -7,9 +7,8 @@ Gem::Specification.new do |s|
   s.version     = Bootstrapper::VERSION
   s.authors     = ["Mike Ruby"]
   s.email       = ["emikebr@gmail.com"]
-  s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.homepage    = "http://mikeruby.tumblr.com/"
+  s.description = %q{A Rails 3.1 engine for generating default layouts and styles using Twitter Bootstrap}
 
   s.rubyforge_project = "bootstrapper"
 
